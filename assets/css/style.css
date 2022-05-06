@@ -178,3 +178,11 @@ section.main ul li a:hover {
         opacity: 1
     }
 }
+
+section.main a {
+    color: #fffffe;
+    font-size: 30px;
+    font-weight: bold;
+    outline: none;
+    text-decoration: none;
+}
